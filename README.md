@@ -168,4 +168,3 @@ Step 6 > Confirm remediation
 
 ---
 
-icense
